@@ -1,0 +1,22 @@
+{
+  "name": "react-demo",
+  "version": "1.0.0",
+  "description": "安装 webpack\r npm install webpack -g",
+  "main": "webpack.config.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "webpack-dev-server",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Movosoft/react-demo.git"
+  },
+  "author": "Movo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Movosoft/react-demo/issues"
+  },
+  "homepage": "https://github.com/Movosoft/react-demo#readme"
+}
